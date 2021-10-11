@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Practice QA">
+ 
+  <test name="Demo">    
+    <classes>
+       <class name="testrunner.ToolsQATest"/>
+    </classes>
+     
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
