@@ -1,4 +1,7 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.492 s - in TestSuite
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.489 s <<< FAILURE! - in TestSuite
+tearDownClass(testrunner.ToolsQATest)  Time elapsed: 9.605 s  <<< FAILURE!
+java.lang.NoSuchMethodError: org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject.createFromByteArray(Lorg/apache/pdfbox/pdmodel/PDDocument;[BLjava/lang/String;)Lorg/apache/pdfbox/pdmodel/graphics/image/PDImageXObject;
+

@@ -1,0 +1,4 @@
+2021-10-11 10:32:30 WARN  FileSystemFontProvider:459 - New fonts found, font cache will be re-built
+2021-10-11 10:32:30 WARN  FileSystemFontProvider:224 - Building on-disk font cache, this may take a while
+2021-10-11 10:32:30 WARN  FileSystemFontProvider:622 - Missing 'name' entry for PostScript name in font C:\WINDOWS\FONTS\Bamini.TTF
+2021-10-11 10:32:34 WARN  FileSystemFontProvider:227 - Finished building on-disk font cache, found 794 fonts
